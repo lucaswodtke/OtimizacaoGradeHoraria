@@ -16,9 +16,9 @@ Os arquivos .ipynb, .LP, PDF, e ods de cada instância:
 
 ## Instalações Realizadas
 
-- Anaconda and Gurobi conda package (https://www.gurobi.com/documentation/9.5/quickstart_windows/cs_anaconda_and_grb_conda_.html)
-Step 1: Download and Install Anaconda
-Step 2: Install the Gurobi conda package
+- Anaconda e Gurobi conda package (https://www.gurobi.com/documentation/9.5/quickstart_windows/cs_anaconda_and_grb_conda_.html)
+Passo 1: Download and Install Anaconda
+Passo 2: Install the Gurobi conda package
 - jupyter (https://anaconda.org/anaconda/jupyter)
 - pandas (https://anaconda.org/anaconda/pandas)
 - numpy (https://anaconda.org/anaconda/numpy)
